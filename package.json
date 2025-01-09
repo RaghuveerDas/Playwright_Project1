@@ -1,0 +1,22 @@
+{
+  "name": "playwright_project1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghuveerDas/Playwright_Project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaghuveerDas/Playwright_Project1/issues"
+  },
+  "homepage": "https://github.com/RaghuveerDas/Playwright_Project1#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
